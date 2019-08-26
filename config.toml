@@ -48,11 +48,11 @@ pygmentsuseclasses         = true
  
 
 [params]
-  faviconfile              = "img/zheng.png"               # from static/
-  avatar                   = "img/profile.jpg"             # path to image in static dir e.g img/avatar.png 
+  faviconfile              = "https://illust8.com/wp-content/uploads/2018/10/winter_snow_illust_1799.png"               # from static/
+  avatar                   = "https://www.artres.com/Doc/ART/Media/TR3/S/K/C/L/ART138918.jpg"             # path to image in static dir e.g img/avatar.png 
   author                   = "Oiar"
-  description              = ["Be myself.", "Love the wonderful world.", "Do the right things and be a better man."]           # appears in the site header when set to a non-empty string
-  welcome_head             = "Hello, World!"
+  description              = ["Another positive day today ～～"]           # appears in the site header when set to a non-empty string
+  welcome_head             = "Hello!"
   welcome_word             = "~ No Day But Today ~"
 
   latestpostscount         = 5                             # how many posts to display on the home page
